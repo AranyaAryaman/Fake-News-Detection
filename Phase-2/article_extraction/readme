@@ -1,0 +1,2 @@
+Packages Required: newspaper3k
+Execute the file using python3 article_downloader.py (Try using the program with changing the URLs in the code) 
